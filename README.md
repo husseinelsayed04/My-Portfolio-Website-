@@ -10,10 +10,6 @@
 ## 🖼️ Homepage Preview
 <img width="1132" height="736" alt="h_preview" src="https://github.com/user-attachments/assets/82107926-2c52-4d33-8033-7ce701187993" />
 
-<a href="https://hussein-elsayed-portfolio.vercel.app/">
-  <img src="https://via.placeholder.com/900x500.png?text=Upload+Your+Portfolio+Screenshot+Here" alt="Hussein ElSayed Portfolio Preview" width="100%">
-</a>
-
 <br><br>
 
 👉 **Live Demo:** [https://hussein-elsayed-portfolio.vercel.app/](https://hussein-elsayed-portfolio.vercel.app/)
