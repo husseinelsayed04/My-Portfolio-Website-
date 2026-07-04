@@ -1,4 +1,4 @@
-# 📱 My Portfolio Website
+#  My Portfolio Website
 
 ![Deploy](https://img.shields.io/badge/DEPLOY-VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/LICENSE-MIT-97ca00?style=for-the-badge)
